@@ -25,3 +25,5 @@ program pgn2csv.  pgn2csv uses pgn to extract
 just the results from the headers of the chess
 games and export them to a graph in the csv
 format that is expected by pageRank.py
+
+Love Ralph
