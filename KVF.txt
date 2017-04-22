@@ -1,0 +1,972 @@
+Reading and parsing the data into memory...
+Kasparov, Gary                 :0.0339107450546
+Fischer, Robert James          :0.025199033191
+Kasparov,G                     :0.0107473979792
+Bychenkova,Angelina            :0.00028578784758
+Laipanov,Ilyas                 :0.00028578784758
+Khadeev,Georgiy                :0.00028578784758
+Giulambarian,Roman             :0.00028578784758
+Karamyan,Roman                 :0.00028578784758
+Kappushev,Ahmat                :0.00028578784758
+Lobzhanidze,Timur              :0.00028578784758
+Kortschnoj, Viktor             :0.00028168503771
+Portisch, Lajos                :0.00028168503771
+Larsen, Bent                   :0.000281679466209
+Petrosian, Tigran V            :0.000281679466209
+Gheorghiu, Florin              :0.000281679466209
+Polugaevsky, Lev               :0.000281679466209
+Tal, Mihail                    :0.000281679466209
+Smyslov, Vassily               :0.000281679466209
+Spassky, Boris V               :0.000281679466209
+Matanovic, Aleksandar          :0.000281679466209
+Panno, Oscar                   :0.000281679466209
+Huebner, Robert                :0.000281674954598
+Kholmov, Ratmir D              :0.000281674954598
+Padevsky, Nikola               :0.000281674954598
+Hort, Vlastimil                :0.000281674954598
+Geller, Efim P                 :0.000281674954598
+Weinstein, Raymond Allen       :0.000221629188508
+Uhlmann, Wolfgang              :0.000221629188508
+Pavey, Max                     :0.000221629188508
+Kovacevic, Vlatko              :0.000221629188508
+Barcza, Gedeon                 :0.000221629188508
+Matthai, H.                    :0.000221629188508
+Pachman, Ludek                 :0.000221629188508
+Szabo, Laszlo                  :0.000221629188508
+Seidman, Herbert               :0.000221629188508
+Rossolimo, Nicolas             :0.000221629188508
+Stevens, W.                    :0.000221629188508
+Feuerstein, Arthur William     :0.000221629188508
+Ciocaltea, Victor              :0.000221629188508
+Pitschak, Rudolf               :0.000221629188508
+Addison, William               :0.000221629188508
+Blau, Max                      :0.000221629188508
+Bisguier, Arthur Bernard       :0.000221629188508
+Trikaliotis, Georgios          :0.000221629188508
+Parma, Bruno                   :0.000221629188508
+Whisler, W.                    :0.000221629188508
+Owens, B.                      :0.000221629188508
+Naranja, Renato                :0.000221629188508
+Cardoso, Radolfo Tan           :0.000221629188508
+Puto, E.                       :0.000221629188508
+Filip, Miroslav                :0.000221629188508
+Gross, H.                      :0.000221629188508
+Harrow, M.                     :0.000221629188508
+Benko, Pal C                   :0.000221629188508
+Saidy, Anthony Fred            :0.000221629188508
+Udovcic, Mijo                  :0.000221629188508
+Leayza, L.                     :0.000221629188508
+Casado, J.                     :0.000221629188508
+Balinas, Rosendo Carrean       :0.000221629188508
+Clement, C.                    :0.000221629188508
+De Parry, T.                   :0.000221629188508
+Flores Alvarez, Rodrigo        :0.000221629188508
+Porath, Yosef                  :0.000221629188508
+Pierce, I.                     :0.000221629188508
+Jimenez Zerquera, Eleazar      :0.000221629188508
+Reshevsky, Samuel Herman       :0.000221629188508
+Otteson, M.                    :0.000221629188508
+Kavalek, Lubomir               :0.000221629188508
+Santasiere, Anthony Edward     :0.000221629188508
+Mecking, Henrique              :0.000221629188508
+Keller, Dieter                 :0.000221629188508
+Byrne, Donald                  :0.000221629188508
+Sobel, Robert                  :0.000221629188508
+Wade, Robert Graham            :0.000221629188508
+Kalme, Charles I               :0.000221629188508
+Bronstein, David I             :0.000221629188508
+Pomar Salamanca, Arturo        :0.000221629188508
+Sanguineti, Raul               :0.000221629188508
+Turner, Abe                    :0.000221629188508
+Fulk, W.                       :0.000221629188508
+Smith, Kenneth R               :0.000221629188508
+Eliskases, Erich Gottlieb      :0.000221629188508
+Berliner, Hans Jack            :0.000221629188508
+Avram, Herbert Mois            :0.000221629188508
+Kalme, G.                      :0.000221629188508
+Hurttlen, N.                   :0.000221629188508
+Warren, J.                     :0.000221629188508
+Lombardy, William James        :0.000221629188508
+Vine, K.                       :0.000221629188508
+Nash, Edmund                   :0.000221629188508
+Mednis, Edmar John             :0.000221629188508
+Denker, Arnold S               :0.000221629188508
+Letelier, Rene                 :0.000221629188508
+Najdorf, Miguel                :0.000221629188508
+Sherwin, James T               :0.000221629188508
+Taimanov, Mark E               :0.000221629188508
+Popov, Luben                   :0.000221629188508
+Szmetan, Jorge                 :0.000221629188508
+Darga, Klaus                   :0.000221629188508
+Germek, Milan                  :0.000221629188508
+Pupols, Viktors                :0.000221629188508
+Ramirez, Gilbert               :0.000221629188508
+Bikulcius, J.                  :0.000221629188508
+Yanofsky, Daniel Abraham       :0.000221629188508
+Mengarini, Ariel               :0.000221629188508
+Donner, Jan Hein               :0.000221629188508
+Bazan, Osvaldo                 :0.000221629188508
+Ilievski, Borce                :0.000221629188508
+O'Kelly de Galway, Alberic     :0.000221629188508
+Averbakh, Yuri L               :0.000221629188508
+Knezevic, Milorad              :0.000221629188508
+Wexler, Bernardo               :0.000221629188508
+Byrne, Robert E                :0.000221629188508
+Rubinstein, Jose               :0.000221629188508
+Keres, Paul                    :0.000221629188508
+Jauregui Andrade, Carlos       :0.000221629188508
+Fox, Maurice                   :0.000221629188508
+Shainswit, George              :0.000221629188508
+Tears, C.                      :0.000221629188508
+Sanchez, Luis A                :0.000221629188508
+Popel, Stephan A               :0.000221624676897
+Evans, Larry Melvyn            :0.000221624676897
+Robatsch, Karl                 :0.000221624676897
+Hearst, Eliot Sanford          :0.000221624676897
+Kraidman, Yair                 :0.000221624676897
+Kampars, N.                    :0.000221624676897
+Ujtumen, Tudev                 :0.000221624676897
+Warner, K.                     :0.000221624676897
+Stein, Leonid                  :0.000221624676897
+Unzicker, Wolfgang             :0.000221624676897
+Rossetto, Hector               :0.000221624676897
+Poschel, Paul                  :0.000221624676897
+Walther, Edgar                 :0.000221624676897
+Emma, Jaime                    :0.000221624676897
+Penrose, Jonathan              :0.000221624676897
+Matulovic, Milan               :0.000221624676897
+Fine, Reuben                   :0.000221624676897
+Teschner, Rudolf               :0.000221624676897
+Olafsson, Fridrik              :0.000221624676897
+Browne, Walter S               :0.000221624676897
+Reuben, Stewart                :0.000221624676897
+Botvinnik, Mikhail             :0.000221624676897
+Ames, D.                       :0.000221624676897
+Janosevic, Dragoljub           :0.000221624676897
+NN                             :0.000221624676897
+Neikirkh, Oleg                 :0.000221624676897
+Shipman, Walter                :0.000221624676897
+Christoph, Manfred             :0.000221624676897
+Bernstein, Sidney Norman       :0.000221624676897
+Euwe, Max                      :0.000221624676897
+Gligoric, Svetozar             :0.000221624676897
+Anderson, Frank Ross           :0.000221624676897
+Thorbergsson, Freysteinn       :0.000221624676897
+Platz, Joseph                  :0.000221624676897
+Munoz, Cesar                   :0.000221624676897
+Foguelman, Alberto             :0.000221624676897
+Ivkov, Borislav                :0.000221624676897
+Karpov, Anatoly                :0.000214535766812
+Smirin, Ilia                   :0.000214535766812
+Beliavsky, Alexander G         :0.000214535766812
+Gulko, Boris F                 :0.000214535766812
+Nikolaevsky, Yuri V            :0.000214535766812
+Quinteros, Miguel A            :0.000214535766812
+Gipslis, Aivars                :0.000214535766812
+Kurajica, Bojan                :0.000214535766812
+Sokolov, Andrei                :0.000214535766812
+Lechtynsky, Jiri               :0.000214535766812
+Harrelson, Woody               :0.000214535766812
+Topalov, Veselin               :0.000214535766812
+Adams, Michael                 :0.000214535766812
+Sokolov, Ivan                  :0.000214535766812
+Short, Nigel D                 :0.000214535766812
+Gavrikov, Viktor               :0.000214535766812
+Spangenberg, Hugo              :0.000214535766812
+Comp Deep Blue                 :0.000214535766812
+Jussupow, Artur                :0.000214535766812
+Ivanov, Igor V                 :0.000214535766812
+Lloyds Bank Chess Club         :0.000214535766812
+Milos, Gilberto                :0.000214535766812
+Bareev, Evgeny                 :0.000214535766812
+Zarnicki, Pablo                :0.000214535766812
+Haik, Aldo                     :0.000214535766812
+Gurevich, Mikhail              :0.000214535766812
+Onischuk, Alexander            :0.000214535766812
+Andersson, Ulf                 :0.000214535766812
+Kamsky, Gata                   :0.000214535766812
+Razuvaev, Yuri S               :0.000214535766812
+Shneider, Aleksandr            :0.000214535766812
+Groszpeter, Attila             :0.000214535766812
+Torre, Eugenio                 :0.000214535766812
+Grinberg, Nir                  :0.000214535766812
+Hess, Christian                :0.000214535766812
+Carreras, Francisco            :0.000214535766812
+Bagirov, Vladimir              :0.000214535766812
+Ravia, Mosi                    :0.000214535766812
+Adorjan, Andras                :0.000214535766812
+Veingold, Aleksandr            :0.000214535766812
+Edelman, Daniel                :0.000214535766812
+BCF Girls                      :0.000214535766812
+Kupreichik, Viktor D           :0.000214535766812
+Cvitan, Ognjen                 :0.000214535766812
+Koch, Jean Rene                :0.000214535766812
+Kouatly, Bachar                :0.000214535766812
+Svidler, Peter                 :0.000214535766812
+Hansen, Curt                   :0.000214530195312
+Psakhis, Lev                   :0.000214530195312
+Eingorn, Vereslav S            :0.000214530195312
+Cordes, Hans Joerg             :0.000214530195312
+Ghitescu, Theodor              :0.000214530195312
+Csom, Istvan                   :0.000214530195312
+Anand, Viswanathan             :0.000214530195312
+Smejkal, Jan                   :0.000214530195312
+De Firmian, Nick E             :0.000214530195312
+Gelfand, Boris                 :0.000214530195312
+Kupper, Josef                  :0.000214530195312
+Illescas Cordoba, Miguel       :0.000214530195312
+Ehlvest, Jaan                  :0.000214530195312
+Brusa, E.                      :0.000214530195312
+Ivanchuk, Vassily              :0.000214530195312
+Seirawan, Yasser               :0.000214530195312
+Reyes, Juan                    :0.000214530195312
+Agzamov, Georgy                :0.000214530195312
+Hjartarson, Johann             :0.000214530195312
+Comp Genius                    :0.000214530195312
+Van Wely, Loek                 :0.000214530195312
+Comp Pentium Fritz4            :0.000214530195312
+Burstein, Almog                :0.000214530195312
+Speelman, Jonathan S           :0.000214530195312
+Kuzmin, Gennadi P              :0.000214530195312
+Cramling, Pia                  :0.000214530195312
+Atlas, Dimitry                 :0.000214530195312
+Benjamin, Joel                 :0.000214530195312
+Khalifman, Alexander           :0.000214530195312
+Finkel, Alexander              :0.000214530195312
+Fishbein, Alexander            :0.000214530195312
+Sveshnikov, Evgeny             :0.000214530195312
+Nikitin, Aleksander S          :0.000214530195312
+Malaniuk, Vladimir P           :0.000214530195312
+Petursson, Margeir             :0.000214530195312
+Hvarre, K.                     :0.000214530195312
+Garcia Gonzales, Guillermo     :0.000214530195312
+EuropChess                     :0.000214530195312
+Comp Fritz 3                   :0.000214530195312
+Georgiev, Krum                 :0.000214530195312
+Nikolic, Predrag               :0.000214530195312
+Tseshkovsky, Vitaly            :0.000214530195312
+Karolyi, Tibor Jr              :0.000214530195312
+Vaganian, Rafael A             :0.000214530195312
+Dreev, Alexey                  :0.000214530195312
+Wegner, Hannu                  :0.000214530195312
+Rashkovsky, Nukhim N           :0.000214530195312
+Pinter, Jozsef                 :0.000214530195312
+Miles, Anthony J               :0.000214530195312
+Dalmagro, D.                   :0.000214530195312
+Scharansky, Nathan             :0.000214530195312
+Piket, Jeroen                  :0.000214530195312
+Mozes, D.                      :0.000214530195312
+Ribli, Zoltan                  :0.000214530195312
+Piva, Giorgio                  :0.000214530195312
+Thorsteins, Karl               :0.000214530195312
+Bosboom, Manuel                :0.000214530195312
+Govbinder, Mikhail Y           :0.000214530195312
+Kramnik, Vladimir              :0.000214530195312
+Anikaev, Yuri N                :0.000214530195312
+Gufeld, Eduard                 :0.000214530195312
+Timoshchenko, Gennadi A        :0.000214530195312
+Leko, Peter                    :0.000214530195312
+Ulibin, Mikhail                :0.000214530195312
+Tukmakov, Vladimir B           :0.000214530195312
+Lerner, Konstantin Z           :0.000214530195312
+Alterman, Boris                :0.000214530195312
+Averkin, Orest N               :0.000214530195312
+Ricardi, Pablo                 :0.000214530195312
+Hertneck, Gerald               :0.000214530195312
+Miralles, Gilles               :0.000214530195312
+Sluckij, Leonid                :0.000214530195312
+Wahls, Matthias                :0.000214530195312
+Romanishin, Oleg M             :0.000214530195312
+Akopian, Vladimir              :0.000214530195312
+Ivanovic, Bozidar              :0.000214530195312
+Kogan, Artur                   :0.000214530195312
+Permuy, Carlos                 :0.000214530195312
+Sosonko, Gennadi               :0.000214530195312
+Lautier, Joel                  :0.000214530195312
+Nogueiras, Jesus               :0.000214530195312
+Suba, Mihai                    :0.000214530195312
+Makarichev, Sergey             :0.000214530195312
+Vogt, Lothar                   :0.000214530195312
+Nunn, John DM                  :0.000214530195312
+Van der Wiel, John TH          :0.000214530195312
+Polgar, Judit                  :0.000214530195312
+Ljubojevic, Ljubomir           :0.000214530195312
+Reefschlaeger, Helmut          :0.000214530195312
+Larrosa, Jose                  :0.000214530195312
+Bellemo, Luca                  :0.000214530195312
+Giorgadze, Tamaz               :0.000214530195312
+Giorgadze, Giorgi              :0.000214530195312
+Altarriba, S.                  :0.000214530195312
+Shirov, Alexei                 :0.000214530195312
+Epishin, Vladimir              :0.000214530195312
+Grigorian, Karen Ashotovich    :0.000214530195312
+Behrhorst, Frank               :0.000214530195312
+Beade, Cesar                   :0.000214530195312
+Rubinetti, Jorge A             :0.000214530195312
+Chandler, Murray G             :0.000214530195312
+Salov, Valery                  :0.000214530195312
+Toro Sanchez, Bernardo         :0.000214530195312
+Balashov, Yuri S               :0.000214530195312
+Kapengut, Albert Z             :0.000214530195312
+Flores, Diego                  :0.000214530195312
+Sutovskij, Emil                :0.000214530195312
+German, Gustavo                :0.000214530195312
+Mosna, Stefano                 :0.000214530195312
+Dlugy, Maxim                   :0.000214530195312
+Oll, Lembit                    :0.000214530195312
+Lima, Darcy                    :0.000214530195312
+Magerramov, Elmar              :0.000214530195312
+Mikhalchishin, Adrian          :0.000214530195312
+Lerner, Al                     :0.000214530195312
+Hug, Werner                    :0.000214530195312
+Sax, Gyula                     :0.000214530195312
+Georgiev, Kiril                :0.000214530195312
+Comp Genius/Pentium            :0.000214530195312
+Gimenez, Ismael                :0.000214530195312
+Yermolinsky, Alex              :0.000214530195312
+Schulte, Oliver                :0.000214530195312
+Frolik, Erhard                 :0.000214530195312
+ICC                            :0.000214530195312
+Morovic Fernandez, Ivan        :0.000214530195312
+Boissonnet, C.                 :0.000214530195312
+Ziglio, Roberto                :0.000214530195312
+Timman, Jan H                  :0.000214530195312
+Wolff, Patrick G               :0.000214530195312
+Rodriguez Miguens, D.          :0.000214530195312
+Negulescu, Adrian              :0.000214530195312
+Banikas,H                      :0.000211220838619
+Wojtkiewicz,A                  :0.000211220838619
+X3D FRITZ                      :0.000211220838619
+Shirov,A                       :0.000211220838619
+Ivanchuk,V                     :0.000211220838619
+Sax,G                          :0.000211220838619
+Barrish,Daniel                 :0.000211220838619
+Ponomariov,R                   :0.000211220838619
+Avrukh,B                       :0.000211220838619
+Adianto,U                      :0.000211220838619
+Topalov,V                      :0.000211220838619
+Svidler,P                      :0.000211220838619
+Karpov,Ana                     :0.000211220838619
+Leko,P                         :0.000211220838619
+Azarov,S                       :0.000211220838619
+Bareev,E                       :0.000211220838619
+Kramnik,V                      :0.000211220838619
+Korchnoi,V                     :0.000211220838619
+Sadvakasov,D                   :0.000211220838619
+Short,N                        :0.000211220838619
+Vachier Lagrave,M              :0.000211220838619
+Epishin,V                      :0.000211220838619
+Van Wely,L                     :0.000211220838619
+Akopian,V                      :0.000211220838619
+Anand,V                        :0.000211220838619
+Wendt,R                        :0.000211220838619
+Piket,Je                       :0.000211220838619
+Radjabov,T                     :0.000211220838619
+Gypser,A                       :0.000211220838619
+Huzman,A                       :0.000211220838619
+Nilssen,J                      :0.000211220838619
+Baramidze,D                    :0.000211220838619
+Vallejo Pons,F                 :0.000211220838619
+Hracek,Z                       :0.000211220838619
+Beutel,J                       :0.000211220838619
+Polgar,Ju                      :0.000211220838619
+Rublevsky,S                    :0.000211220838619
+Akopian,Vl                     :0.000211220838619
+Grischuk,A                     :0.000211220838619
+Carlsen,M                      :0.000211220838619
+Timman,J                       :0.000211220838619
+Gelfand,B                      :0.000211220838619
+Kasimdzhanov,R                 :0.000211220838619
+Morozevich,A                   :0.000211220838619
+Adams,Mi                       :0.000211220838619
+Nielsen,PH                     :0.000211220838619
+DEEP JUNIOR                    :0.000211220838619
+Khalifman,A                    :0.000211220838619
+Korotylev,A                    :0.000211220838619
+Lputian,S                      :0.000211220838619
+Movsesian,S                    :0.000211220838619
+Bacrot,E                       :0.000211220838619
+Motylev,A                      :0.000211220838619
+Oral,T                         :0.000211220838619
+Ye Jiangchuan                  :0.000211220838619
+Karpov,An                      :0.000211220838619
+Gulko,B                        :0.000211220838619
+Schmitt,HW                     :0.000211220838619
+Tkachiev,V                     :0.000211220838619
+Azmaiparashvili,Z              :0.000211220838619
+Olsen,H                        :0.000211220838619
+Abud,Ronaldo                   :0.000154479917611
+Cid, D.                        :0.000154479917611
+Sillars, K.                    :0.000154479917611
+Yepez, Olavo                   :0.000154479917611
+Vister, M.                     :0.000154479917611
+Richman, J.                    :0.000154479917611
+Suttles, Duncan                :0.000154479917611
+Velimirovic, Dragoljub         :0.000154479917611
+Popovych, Orest                :0.000154479917611
+Echevarria, C.                 :0.000154479917611
+Rosich, Alfred                 :0.000154479917611
+Dellair, Abdul Malek           :0.000154479917611
+Klaric, Zlatko                 :0.000154479917611
+Duer, Arne                     :0.000154479917611
+Wapner, Jonathan               :0.000154479917611
+Danailov, Silvio               :0.000154479917611
+Marcote, P.                    :0.000154479917611
+Kengis, Edvins                 :0.000154479917611
+Sharp, C.                      :0.000154479917611
+Revista WEB                    :0.000154479917611
+Kumro, T.                      :0.000154479917611
+Moreira, Jairo                 :0.000154479917611
+Dreev,A                        :0.000154479917611
+Monier, Raul                   :0.000154479917611
+Pilnik, Herman                 :0.000154479917611
+Incutto, Carlos                :0.000154479917611
+Kasparov, G.                   :0.000154479917611
+Wirth, Wolfgang                :0.000154479917611
+Rey                            :0.000154479917611
+Jobava,Ba                      :0.000154479917611
+Sokolov,I                      :0.000154479917611
+Sunye Neto, Jaime              :0.000154479917611
+Pelletier,Y                    :0.000154479917611
+Fauber, R.                     :0.000154479917611
+Amura, Claudia Noemi           :0.000154479917611
+Fernandez Garcia, Jose L       :0.000154479917611
+Bartosik, Olimpia              :0.000154479917611
+Schiendorfer, R.               :0.000154479917611
+Saadi, Julio                   :0.000154479917611
+Munch, P.                      :0.000154479917611
+Nicevski, Risto                :0.000154479917611
+Stekel Grunberg, Moises        :0.000154479917611
+Bhend, Edwin                   :0.000154479917611
+Charambalos, J.                :0.000154479917611
+Martinez, Gustavo              :0.000154479917611
+Chernin, Alexander             :0.000154479917611
+Toth, Christian Endre          :0.000154479917611
+Halac, Matias                  :0.000154479917611
+Guaglianone, Mario             :0.000154479917611
+Horiguti,Augusto               :0.000154479917611
+Leopoldi, Norbert              :0.000154479917611
+Miyasaki, Yukio                :0.000154479917611
+Christiansen, Larry Mark       :0.000154479917611
+Damljanovic, Branko            :0.000154479917611
+Lapiken, Peter P               :0.000154479917611
+Gambale,Eduardo                :0.000154479917611
+Lopez-Yanez,Carlos Torres      :0.000154479917611
+Lutikov, Anatoly S             :0.000154479917611
+Stephans, E.                   :0.000154479917611
+Lutz,C                         :0.000154479917611
+Rom Koffie                     :0.000154479917611
+Chate, Fred                    :0.000154479917611
+Bavagnoli, Gabriele            :0.000154479917611
+Lago, Victor Miguel            :0.000154479917611
+Mutkin, Henry                  :0.000154479917611
+Gloger, J.                     :0.000154479917611
+Urday, Henry                   :0.000154479917611
+Juanpera, J.                   :0.000154479917611
+De Poi, Paolo                  :0.000154479917611
+Petursson,M                    :0.000154479917611
+Balam, H.                      :0.000154479917611
+Schoene, A.                    :0.000154479917611
+Moscovich, Fabian              :0.000154479917611
+Kharitonov, Andrei Y           :0.000154479917611
+Rinaldo, J.                    :0.000154479917611
+Vivanco, J.                    :0.000154479917611
+Czerniak, Moshe                :0.000154479917611
+Freire, R.                     :0.000154479917611
+Minev, Nikolay N               :0.000154479917611
+Schuerer, P.                   :0.000154479917611
+Damjanovic, Mato               :0.000154479917611
+Butnorius, Algimantas          :0.000154479917611
+Karrer, Hans                   :0.000154479917611
+Miranda, Marcio MC             :0.000154479917611
+Firor, J.                      :0.000154479917611
+Saltzberg, Mitchell            :0.000154479917611
+Atlas, Valeri                  :0.000154479917611
+Agdamus, Jose Luis             :0.000154479917611
+Garcia Santos, G.              :0.000154479917611
+Pert, Nicholas                 :0.000154479917611
+Surgies, M.                    :0.000154479917611
+Salas Romo, Julio              :0.000154479917611
+Terao,J                        :0.000154479917611
+Ornithopoulos, Nikolaos        :0.000154479917611
+Zaas, D.                       :0.000154479917611
+Abegg, M.                      :0.000154479917611
+Radojcic, Miroslav             :0.000154479917611
+Bredl,H                        :0.000154479917611
+Spiridonov, Nikola             :0.000154479917611
+Fiala,Viliam                   :0.000154479917611
+Nievergelt, Erwin              :0.000154479917611
+Wilkerson, Max                 :0.000154479917611
+Almasi, Zoltan                 :0.000154479917611
+Kasparov, Garry:Crumiller, Jon :0.000154479917611
+Boscolo, Max                   :0.000154479917611
+Johannessen, Svein             :0.000154479917611
+Groshenny, C.                  :0.000154479917611
+Aleksandrov,A                  :0.000154479917611
+Gratka, Krzysztof              :0.000154479917611
+Mughreblian, Ben               :0.000154479917611
+Fernandez, Rodrigo Amaral      :0.000154479917611
+Gudmundsson, Arinbjorn         :0.000154479917611
+Bastin, Eugene                 :0.000154479917611
+Dorfman, Josif D               :0.000154479917611
+Thomsen,T                      :0.000154479917611
+Grossguth, C.                  :0.000154479917611
+Bennett, J1.                   :0.000154479917611
+Kramer, George Mortimer        :0.000154479917611
+Renet, Olivier                 :0.000154479917611
+Simonsen,O                     :0.000154479917611
+McDermott, M.                  :0.000154479917611
+Lefevre, C.                    :0.000154479917611
+Requejo, Oswaldo               :0.000154479917611
+Rogers, Ian                    :0.000154479917611
+Savereide, Diane               :0.000154479917611
+Cuellar Gacharna, Miguel       :0.000154479917611
+Sanchez Guzman,Tania           :0.000154479917611
+Minic, Dragoljub               :0.000154479917611
+Munoz, Luis Gerardo            :0.000154479917611
+Ruth, D.                       :0.000154479917611
+Buerger, E.                    :0.000154479917611
+Scherrer, B.                   :0.000154479917611
+De la Riva, M.                 :0.000154479917611
+Ivanov, Alexander              :0.000154479917611
+Gerber, Richard                :0.000154479917611
+Tomargo, J.                    :0.000154479917611
+www.msn.nl                     :0.000154479917611
+Alvarez del Monte, Jose Luis   :0.000154479917611
+Alvaro, Raul                   :0.000154479917611
+Garza Castro, R.               :0.000154479917611
+Dueckstein, Andreas            :0.000154479917611
+Bergraser, Volf                :0.000154479917611
+Kaufman, Raymond               :0.000154479917611
+Fedorowicz, John P             :0.000154479917611
+Unzicker,W                     :0.000154479917611
+Osbun, E.                      :0.000154479917611
+Purevzhav, S.                  :0.000154479917611
+Gershon, Alik                  :0.000154479917611
+Garais, I.                     :0.000154479917611
+Hamilton, Robert               :0.000154479917611
+Johannsson, Ingi Randver       :0.000154479917611
+Van Beurden,M                  :0.000154479917611
+Sillars,K/Manter,L             :0.000154479917611
+Walz, W.                       :0.000154479917611
+Weemaes, Ronald                :0.000154479917611
+Johnson, Daniel                :0.000154479917611
+Tseitlin, Mark D               :0.000154479917611
+Natsis, Trifon                 :0.000154479917611
+Teplitsky, Yan                 :0.000154479917611
+Kagan, Shimon                  :0.000154479917611
+Hjorth, Greg                   :0.000154479917611
+De Greiff, Boris               :0.000154479917611
+Milos,G                        :0.000154479917611
+Kuberczyk, Z.                  :0.000154479917611
+Souto, E.                      :0.000154479917611
+Taylor, Peter                  :0.000154479917611
+Marcote, J.                    :0.000154479917611
+Mchedlishvili,M                :0.000154479917611
+Kozul, Zdenko                  :0.000154479917611
+Pinus, Ruben                   :0.000154479917611
+Pablo Marin, Alejandro         :0.000154479917611
+Guimard, Carlos E              :0.000154479917611
+Blackstone, John               :0.000154479917611
+Gonzalez Larranaga, Y.         :0.000154479917611
+Durao, Joaquim                 :0.000154479917611
+Casares, F.                    :0.000154479917611
+Bauer,Ch                       :0.000154479917611
+The World                      :0.000154479917611
+Howell, David                  :0.000154479917611
+Scamps, Roland                 :0.000154479917611
+Vukic, Milan                   :0.000154479917611
+Sarapu, Ortvin                 :0.000154479917611
+McShane, Luke J                :0.000154479917611
+Zaitsev, Igor A                :0.000154479917611
+Schussler, Harry               :0.000154479917611
+Reinderman, Dimitri            :0.000154479917611
+Carrazoni, A.                  :0.000154479917611
+Stein, Bernd                   :0.000154479917611
+Matov, M.                      :0.000154479917611
+Zuckerman, Bernard             :0.000154479917611
+Nunez, A.                      :0.000154479917611
+Brandts, Paul                  :0.000154479917611
+Zelkind, C.                    :0.000154479917611
+Ader Hausman, Walter           :0.000154479917611
+Anastassopulos, A.             :0.000154479917611
+Celle, O.                      :0.000154479917611
+Maiques, Raul                  :0.000154479917611
+Walker, RG.                    :0.000154479917611
+Sibarevic, Milenko             :0.000154479917611
+Hernandez De La Vega,Alej      :0.000154479917611
+Nikolic,Pr                     :0.000154479917611
+Ree, Hans                      :0.000154479917611
+ATV                            :0.000154479917611
+Arnason, Jon L                 :0.000154479917611
+Ehlvest,J                      :0.000154479917611
+De la Fuente, F.               :0.000154479917611
+Chabanon, Jean Luc             :0.000154479917611
+Rozentalis, Eduardas           :0.000154479917611
+Nyman, Sture                   :0.000154479917611
+Comp Leonardo Maestro          :0.000154479917611
+Queiroz,Agnelo                 :0.000154479917611
+Meulders, Richard              :0.000154479917611
+Pietzsch, Wolfgang             :0.000154479917611
+Gurevich, Ilya                 :0.000154479917611
+Kudriashov, Anatoli            :0.000154479917611
+Swank, A.                      :0.000154479917611
+Hamann, Svend                  :0.000154479917611
+Thiruchelvam, Thirumurugan     :0.000154479917611
+Redolfi, Argentino Rodolfo     :0.000154479917611
+Ina, D.                        :0.000154479917611
+Loginov, Valery A              :0.000154479917611
+Sendur, Adnan                  :0.000154479917611
+De Souza Mendes, Joao          :0.000154479917611
+Sandrin, Albert                :0.000154479917611
+German, Eugenio Maciel         :0.000154479917611
+Gouveia, Carlos Eduardo        :0.000154479917611
+Castellano, P.                 :0.000154479917611
+Spinelli, Doriano              :0.000154479917611
+Inguimberty, JL.               :0.000154479917611
+Joris, P.                      :0.000154479917611
+Baches Garcia, Guillermo       :0.000154479917611
+Goldhamer                      :0.000154479917611
+Sbarra, Marco                  :0.000154479917611
+Morozevich, Alexander          :0.000154479917611
+Fuller, John A                 :0.000154479917611
+Winants, Luc                   :0.000154479917611
+Ligterink, Gert                :0.000154479917611
+Barua,D                        :0.000154479917611
+Blasco, L.                     :0.000154479917611
+Cahn, R.                       :0.000154479917611
+Lputian, Smbat G               :0.000154479917611
+Faulks, N.                     :0.000154479917611
+Alburt, Lev O                  :0.000154479917611
+Sliwa, Bogdan                  :0.000154479917611
+Fuster, Geza                   :0.000154479917611
+Aaron, Manuel                  :0.000154479917611
+Munoz Pantoja, Miguel          :0.000154479917611
+Hunt, Harriet                  :0.000154479917611
+Pascual                        :0.000154479917611
+Donnelly, W.                   :0.000154479917611
+Bandal, R.                     :0.000154479917611
+Salpagarova,Amina              :0.000154479917611
+Rigoni, V.                     :0.000154479917611
+Moggi, C.                      :0.000154479917611
+Yurtaev, Leonid                :0.000154479917611
+McNab, Colin Anderson          :0.000154479917611
+Weinberger, Tibor              :0.000154479917611
+Morales,Cesar                  :0.000154479917611
+Garcia Soruco, Julio           :0.000154479917611
+Egli, K.                       :0.000154479917611
+Shamkovich, Leonid             :0.000154479917611
+Busche,M                       :0.000154479917611
+Lee, Graham D                  :0.000154479917611
+Gomez,Gu                       :0.000154479917611
+Negra, Massimiliano            :0.000154479917611
+Galle, Andre                   :0.000154479917611
+Martinovic, Slobodan           :0.000154479917611
+Bolbochan, Julio               :0.000154479917611
+Lehmann, Heinz Dr              :0.000154479917611
+Sholomson, S.                  :0.000154479917611
+Ibrahimoglu, Ismet             :0.000154479917611
+Murrey, Jacob                  :0.000154479917611
+Rivera, D1.                    :0.000154479917611
+Rahn,V                         :0.000154479917611
+Sermier, Alain                 :0.000154479917611
+Shaked, Tal                    :0.000154479917611
+Hogarth,M                      :0.000154479917611
+Pert, Richard G                :0.000154479917611
+Jovanovac, I.                  :0.000154479917611
+Fajkus, J.                     :0.000154479917611
+Rachels, Stuart                :0.000154479917611
+Olafsson,H                     :0.000154479917611
+Ringel,A                       :0.000154479917611
+Ostojic, Predrag               :0.000154479917611
+Green, Matthew                 :0.000154479917611
+Marjanovic, Slavoljub          :0.000154479917611
+Advocatenkantoor Cies Gysen    :0.000154479917611
+Sharif, Mershad                :0.000154479917611
+Azmaiparashvili, Zurab         :0.000154479917611
+Gaehwiler,G                    :0.000154479917611
+Steinmeyer, Robert             :0.000154479917611
+Foldesi,M                      :0.000154479917611
+Camargo,Silvio Eduardo         :0.000154479917611
+Roos, Louis                    :0.000154479917611
+Paehtz,E                       :0.000154479917611
+Danov, Kiril                   :0.000154479917611
+Soos, Bela                     :0.000154479917611
+Krasenkow,M                    :0.000154479917611
+Pereira,Amanda Marques         :0.000154479917611
+McCaskey, E.                   :0.000154479917611
+Comp Deep Thought              :0.000154479917611
+Srinavasan, J.                 :0.000154479917611
+Bredoff, M.                    :0.000154479917611
+Terrone, J.                    :0.000154479917611
+Gonda, Gentaro                 :0.000154479917611
+Reyes, Romuel                  :0.000154479917611
+Forintos, Gyozo V              :0.000154479917611
+Acevedo, Armando               :0.000154479917611
+Lobron, Eric                   :0.000154479917611
+Jimenez, Angel                 :0.000154479917611
+Topsport Antwerpen             :0.000154479917611
+Deurne                         :0.000154479917611
+Ferioli, Franco                :0.000154479917611
+Prieto, A.                     :0.000154479917611
+Bednarski, Jacek B             :0.000154479917611
+Dely, Peter                    :0.000154479917611
+Pribyl, Josef                  :0.000154479917611
+Tambasco,Claudia               :0.000154479917611
+Grup Equs                      :0.000154479917611
+Greenwald                      :0.000154479917611
+Massoni,M                      :0.000154479917611
+Camara, Helder                 :0.000154479917611
+Botteley, Gerald               :0.000154479917611
+Simon, A.                      :0.000154479917611
+Kokkoris, L.                   :0.000154479917611
+Vescovi, Giovanni              :0.000154479917611
+Zifroni, Dov                   :0.000154479917611
+Dunne, David Joseph            :0.000154479917611
+Herrera, Laura                 :0.000154479917611
+Trifunovic, Petar              :0.000154479917611
+Olafsson,H1                    :0.000154479917611
+Sandrin, Angelo                :0.000154479917611
+Mobley, H.                     :0.000154479917611
+Jones, Lee                     :0.000154479917611
+Kral                           :0.000154479917611
+Reinhard, A.                   :0.000154479917611
+Goldsmith, J.                  :0.000154479917611
+Babula,V                       :0.000154479917611
+Vaisser, Anatoli               :0.000154479917611
+Nenashev, Alexander            :0.000154479917611
+Lauper, X.                     :0.000154479917611
+Witte, V.                      :0.000154479917611
+Sakaev,K                       :0.000154479917611
+Bernstein, Yaacov              :0.000154479917611
+Thomason, J.                   :0.000154479917611
+Cebalo, Miso                   :0.000154479917611
+Troianescu, Octavio            :0.000154479917611
+Paco, Albalate                 :0.000154479917611
+Cristofari,A                   :0.000154479917611
+Netzer, Jean                   :0.000154479917611
+Thacker, R.                    :0.000154479917611
+Wilson,J                       :0.000154479917611
+Bilek, Istvan                  :0.000154479917611
+Badilles, Glicerio             :0.000154479917611
+Shocron, Ruben                 :0.000154479917611
+Vladimirov,E                   :0.000154479917611
+Chuchelov,V                    :0.000154479917611
+Hook, William                  :0.000154479917611
+Marovic, Drazen                :0.000154479917611
+Huss, Andreas                  :0.000154479917611
+Cobo Arteaga, Eldis            :0.000154479917611
+Myagmarsuren, Lhamsuren        :0.000154479917611
+Sorin, Ariel                   :0.000154479917611
+Kocisky,Eduard                 :0.000154479917611
+Capitelli, Paolo               :0.000154479917611
+Lutz, Christopher              :0.000154479917611
+Slamka,Pavol                   :0.000154479917611
+Hernandez, Roman               :0.000154479917611
+Centea                         :0.000154479917611
+Vazquez, Fermin                :0.000154479917611
+Burijovich, Liliana            :0.000154479917611
+Nikolic, Emil                  :0.000154479917611
+Suarez, Diego                  :0.000154479917611
+Wendling, Jens                 :0.000154479917611
+Guillot, Blandine              :0.000154479917611
+Colindo                        :0.000154479917611
+Wurtz, F.                      :0.000154479917611
+Lautier,J                      :0.000154479917611
+Martinez                       :0.000154479917611
+Nolsoe,E                       :0.000154479917611
+Reading, M.                    :0.000154479917611
+Thiele,M                       :0.000154479917611
+Oblitas, Carlomagno            :0.000154479917611
+Felder, Markus                 :0.000154479917611
+Paleo, D.                      :0.000154479917611
+The Times A                    :0.000154479917611
+Resnik, I.                     :0.000154479917611
+Michaud, Luois                 :0.000154479917611
+Yudasin, Leonid                :0.000154479917611
+Bielicki, Carlos               :0.000154479917611
+Kasimdzhanov, Rustam           :0.000154479917611
+Masternak, Grzegorz            :0.000154479917611
+Mott Smith, KO.                :0.000154479917611
+Janushkovsky, A.               :0.000154479917611
+Tyomkin, Dimitri               :0.000154479917611
+Bobotsov, Milko G              :0.000154479917611
+Habu,Y                         :0.000154479917611
+Cerulik,Roman                  :0.000154479917611
+Marini, Luis                   :0.000154479917611
+Miguel Aparicio, Fernando      :0.000154479917611
+Antoshin, Vladimir S           :0.000154479917611
+Gerbert, Philipp               :0.000154479917611
+Vazquez Cruz,Jorge Matias      :0.000154479917611
+Matocha,P                      :0.000154479917611
+Nikitin/Sakarov                :0.000154479917611
+Tiviakov,S                     :0.000154479917611
+Belzberg, S.                   :0.000154479917611
+Segal, Anna                    :0.000154479917611
+Di Camillo, Attilio            :0.000154479917611
+Elo, Arpad                     :0.000154479917611
+Gardner, C.                    :0.000154479917611
+Hracek, Zbynek                 :0.000154479917611
+Sasikiran,K                    :0.000154479917611
+Rodgaard,J                     :0.000154479917611
+Guerrero, P.                   :0.000154479917611
+Cuijpers, Frans Andre          :0.000154479917611
+Tringov, Georgi P              :0.000154479917611
+Short, Nigel:Vujatovic, Rajko  :0.000154479917611
+Bivoj,Fridrich                 :0.000154479917611
+Georgiev,Ki                    :0.000154479917611
+Bronner, D.                    :0.000154479917611
+Rendle, Thomas                 :0.000154479917611
+Spanghero, Nicola              :0.000154479917611
+Rubin, Sidney J                :0.000154479917611
+Campora, Daniel H              :0.000154479917611
+Schmidt, Wlodzimierz           :0.000154479917611
+Viaggi, Giovanni               :0.000154479917611
+Gazet Van Antwerpen            :0.000154479917611
+Bertacco, Piero                :0.000154479917611
+Palatnik, Semon                :0.000154479917611
+Garner, David                  :0.000154479917611
+Bertona, Fernando              :0.000154479917611
+Schweizer, Wolfgang            :0.000154479917611
+Krick, M.                      :0.000154479917611
+Panchenko, Alexander N         :0.000154479917611
+Meyer,Joseph Nigra             :0.000154479917611
+Gadia, Okicio                  :0.000154479917611
+Jaburek,Jiri                   :0.000154479917611
+Timofeev,Arty                  :0.000154479917611
+Mecar,Stefan                   :0.000154479917611
+Pares Vives, Jose              :0.000154479917611
+Wirthensohn, Heinz             :0.000154479917611
+Doda, Zbigniew                 :0.000154479917611
+Renman, Nils Gustaf            :0.000154479917611
+Aloni, Izak                    :0.000154479917611
+Martin, L.                     :0.000154479917611
+Ellison, Derek George          :0.000154479917611
+Supper, Y.                     :0.000154479917611
+Kevitz, Alexander              :0.000154479917611
+Quadros,Andr‚                  :0.000154479917611
+Gore, James                    :0.000154479917611
+Pomes Marcet, Juan             :0.000154479917611
+Panov, Vladimir                :0.000154479917611
+Barczay, Laszlo                :0.000154479917611
+Baude, H.                      :0.000154479917611
+Maric, Rudolf                  :0.000154479917611
+Hirzel, Rene                   :0.000154479917611
+Bukic, Enver                   :0.000154479917611
+Forster,R                      :0.000154479917611
+Von Oettingen, S.              :0.000154479917611
+Ronksley, S.                   :0.000154479917611
+Chiburdanidze, Maia            :0.000154479917611
+Humeau,C                       :0.000154479917611
+Prados, Ant                    :0.000154479917611
+Print_It                       :0.000154479917611
+Wood, Gaby                     :0.000154479917611
+Harnois, Clementine            :0.000154479917611
+Hill, L.                       :0.000154479917611
+Garcia Martinez, Silvino       :0.000154479917611
+ABN AMRO                       :0.000154479917611
+Bicchierai,G                   :0.000154479917611
+Greenblatt Programm            :0.000154479917611
+Beach, TJ.                     :0.000154479917611
+Brellmann, L.                  :0.000154479917611
+Lefstein, B.                   :0.000154479917611
+Hoppe, R.                      :0.000154479917611
+Sofrevski, Jovan               :0.000154479917611
+Gobet, Fernand                 :0.000154479917611
+Perez Perez, Francisco Jose    :0.000154479917611
+Yamamoto,Paulo                 :0.000154479917611
+Donovan, Jeremiah              :0.000154479917611
+Rott, Georg                    :0.000154479917611
+Lontoc, Ramon                  :0.000154479917611
+Jones, Gawain                  :0.000154479917611
+Tejero, M.                     :0.000154479917611
+Goranson, W.                   :0.000154479917611
+Bohrer, E.                     :0.000154479917611
+Winkelmueller, JL.             :0.000154479917611
+Kasparov,Georgy                :0.000154479917611
+Garcia, Raimundo               :0.000154479917611
+Rabinovich, Alexander          :0.000154479917611
+Geller, Uzi                    :0.000154479917611
+Dolmatov, Sergey               :0.000154479917611
+Williams, Alan P               :0.000154479917611
+Sacco, Gelabert                :0.000154479917611
+Domnitz, Zadok                 :0.000154479917611
+Di Fonzo, Valerio              :0.000154479917611
+ACE                            :0.000154479917611
+Nemec,Igor                     :0.000154479917611
+Tseshkovsky,V                  :0.000154479917611
+Tsibulevskiy, E.               :0.000154479917611
+Rodriguez, Ruben               :0.000154479917611
+Kundin, Alexander              :0.000154479917611
+Brown, Steve                   :0.000154479917611
+Rao, Vivek                     :0.000154479917611
+Gurevich,M                     :0.000154479917611
+Olafsson, Helgi                :0.000154479917611
+Akesson, Ralf                  :0.000154479917611
+Finegold, Ronald               :0.000154479917611
+Korsunsky, Rostislav R         :0.000154479917611
+Arlandi, Ennio                 :0.000154479917611
+Liss, Eran                     :0.000154479917611
+Mnatsakanian, Eduard A         :0.000154479917611
+Bann,Ellery                    :0.000154479917611
+Diani, Jose                    :0.000154479917611
+Giardelli, Sergio C            :0.000154479917611
+Hjartarson,J                   :0.000154479917611
+Bofill, Alejandro              :0.000154479917611
+Paci, Daniele                  :0.000154479917611
+Gruenberg, Rainer              :0.000154479917611
+Morrison, Graham               :0.000154479917611
+Arbakov, Valentin              :0.000154479917611
+Tempone, Marcelo               :0.000154479917611
+Hutt, Alejandro                :0.000154479917611
+Haines, W.                     :0.000154479917611
+Pereiro, J.                    :0.000154479917611
+Jukemura,L                     :0.000154479917611
+Iglesias, Alejandro            :0.000154479917611
+Jukemura,R                     :0.000154479917611
+Bertok, Mario                  :0.000154479917611
+Vilaisarn,A                    :0.000154479917611
+Schweber, Samuel               :0.000154479917611
+Huzman, Alexander              :0.000154479917611
+Marchand, Erich Watkinson      :0.000154479917611
+Rogers,I                       :0.000154479917611
+Morrison, William              :0.000154479917611
+Ault, Robin                    :0.000154479917611
+Cid, Nadia                     :0.000154479917611
+Niebling,F                     :0.000154479917611
+Drugda,Branislav               :0.000154479917611
+Trepp, Markus                  :0.000154479917611
+Chatte, AS.                    :0.000154479917611
+Stefansson, Hannes             :0.000154479917611
+Agdestein, Simen               :0.000154479917611
+Shahade, Gregory               :0.000154479917611
+Carneiro,Marco Paulo           :0.000154479917611
+Garcia, Gilberto               :0.000154479917611
+Yosifides, Aris                :0.000154479917611
+Larso, E.                      :0.000154479917611
+Porro, Fernando                :0.000154479917611
+Pena Rodriguez, J.             :0.000154479917611
+Marikova,Jana                  :0.000154479917611
+Shifrine, M.                   :0.000154479917611
+Veiga Goy, Jose Luis           :0.000154479917611
+Soltis, Andrew E               :0.000154479917611
+KAOSK                          :0.000154479917611
+Baron, S.                      :0.000154479917611
+West, Guy                      :0.000154479917611
+Dambo, L.                      :0.000154479917611
+Matabeek, S.                   :0.000154479917611
+Barakh, Al                     :0.000154479917611
+Vizantiadis, Lazaros           :0.000154479917611
+Gueye, Gorgui                  :0.000154479917611
+Zueger, Beat                   :0.000154479917611
+Oster, R.                      :0.000154479917611
+Bolbochan, Jacobo              :0.000154479917611
+Webb, Simon                    :0.000154479917611
+Popovic, Petar                 :0.000154479917611
+Mazzoni, Guy                   :0.000154479917611
+Fedorov,Alex                   :0.000154479917611
+Vaculik,M                      :0.000154479917611
+Dao Thien Hai                  :0.000154479917611
+Tatai, Stefano                 :0.000154479917611
+Miklos,R                       :0.000154479917611
+Burger, Karl                   :0.000154479917611

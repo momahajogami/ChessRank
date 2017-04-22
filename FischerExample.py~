@@ -1,0 +1,4 @@
+import pgn
+
+pgn_text = open('Fischer.pgn').read()
+l = pgn.loads(pgn_text

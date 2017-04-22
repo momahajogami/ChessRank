@@ -1,0 +1,35 @@
+It's a shame the way that chess players
+talk about their "ratings".
+
+It seems undignified and sours the mood. 
+
+But what can we do?  You need some sort of
+system.  I suggest viewing any collection of
+chess games as a graph with two arrows in the
+same direction for a win and opposing arrows
+for a draw.  Then, run Google's pagerank
+algorithm on the graph and you have one
+meaningful ranking of the players.
+
+Let's imagine the rules of chess extended a bit
+to include pageRank as part of the game.  What
+would that look like?
+
+
+From Alina,
+(post)
+My milkshake brings all the boys to
+the yard
+all of them
+the ground begins to rumble and 3
+billion boys pour in over the hills in
+an huge boy tsunami, eclipsing the
+sun, destroying everything in their
+path.
+the entire city is razed ot the
+ground.  The screams of boys being
+crushed to death among the fray
+combines into a deafening roar of
+suffering.
+I stare at my milkshake with hollow,
+haunted eyes.  What have I done. 
